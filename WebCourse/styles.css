@@ -1,0 +1,42 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color:#E1E1ED;
+        }
+
+        header {
+            color:white;
+            background-color:#170075;
+            font-family: 'Arial Black', sans-serif;
+            text-align: center;
+        }
+
+        #topico1, #topico2, #topico3 {
+            max-width: 800px;
+
+        }
+
+        #topico1 p, #topico2 ul, #topico3 ol {
+            font-family: Arial, sans-serif;
+            color:#363636;
+            text-align: justify;
+        }
+
+        #topico1 h2, #topico2 h2, #topico3 h2 {
+            color:#170075;
+            font-family: 'Arial Black', sans-serif;
+        }
+
+
+        footer {
+            text-align: center;
+
+        }
+        footer h2 {
+            color:#45457d;
+            font-family: 'Arial Black', sans-serif;
+        }
+        footer p {
+            font-family: Arial, sans-serif;
+            color:#727272;
+        }
