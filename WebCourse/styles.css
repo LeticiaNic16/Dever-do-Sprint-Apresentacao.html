@@ -2,6 +2,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             background-color:#E1E1ED;
+            color:#363636;
         }
 
         header {
@@ -9,6 +10,7 @@
             background-color:#170075;
             font-family: 'Arial Black', sans-serif;
             text-align: center;
+            text-size: 24px;
         }
 
         #topico1, #topico2, #topico3 {
@@ -20,13 +22,14 @@
             font-family: Arial, sans-serif;
             color:#363636;
             text-align: justify;
+            font-size: 16px;
         }
 
         #topico1 h2, #topico2 h2, #topico3 h2 {
             color:#170075;
             font-family: 'Arial Black', sans-serif;
+            text-size:20px;
         }
-
 
         footer {
             text-align: center;
@@ -35,8 +38,10 @@
         footer h2 {
             color:#45457d;
             font-family: 'Arial Black', sans-serif;
+            font-size:20px;
         }
         footer p {
             font-family: Arial, sans-serif;
             color:#727272;
+            font-size:16px;
         }
