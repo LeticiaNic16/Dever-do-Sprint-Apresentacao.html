@@ -31,6 +31,11 @@
             text-size:20px;
         }
 
+        .hobby-highlighted {
+            background-color:#B7B7FF;
+            font-weight:bold;
+        }
+
         footer {
             text-align: center;
 
