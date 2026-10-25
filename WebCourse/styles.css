@@ -10,13 +10,13 @@
             background-color:#170075;
             font-family: 'Arial Black', sans-serif;
             text-align: center;
-            text-size: 24px;
+            font-size: 24px;
         }
 
         img {
             width:100%;
             max-width:175px;
-            weight:auto;
+            height:auto;
         }
 
         #topico1, #topico2, #topico3 {
@@ -34,7 +34,7 @@
         #topico1 h2, #topico2 h2, #topico3 h2 {
             color:#170075;
             font-family: 'Arial Black', sans-serif;
-            text-size:20px;
+            font-size:20px;
         }
 
         .hobby-highlighted {
