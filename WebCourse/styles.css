@@ -11,48 +11,55 @@
             font-family: 'Arial Black', sans-serif;
             text-align: center;
             font-size: 24px;
+            padding: 10px;
+        }
+
+        #main-title {
+            text-transform: uppercase;
+            letter-spacing: 2px;
         }
 
         img {
-            width:100%;
-            max-width:175px;
-            height:auto;
+            width: 100%;
+            max-width: 175px;
+            height: auto;
         }
 
         #topico1, #topico2, #topico3 {
             max-width: 800px;
-
+            margin: 0 auto;
+            padding: 10px;
         }
 
         #topico1 p, #topico2 ul, #topico3 ol {
             font-family: Arial, sans-serif;
-            color:#363636;
+            color: #363636;
             text-align: justify;
             font-size: 16px;
         }
 
         #topico1 h2, #topico2 h2, #topico3 h2 {
-            color:#170075;
+            color: #170075;
             font-family: 'Arial Black', sans-serif;
-            font-size:20px;
+            font-size: 20px;
         }
 
         .hobby-highlighted {
-            background-color:#B7B7FF;
-            font-weight:bold;
+            background-color: #B7B7FF;
+            font-weight: bold;
         }
 
         footer {
             text-align: center;
-
+            padding:10px;
         }
         footer h2 {
-            color:#45457d;
-            font-family: 'Arial Black', sans-serif;
-            font-size:20px;
+            color: #45457d;
+            font-family:'Arial Black', sans-serif;
+            font-size: 20px;
         }
         footer p {
             font-family: Arial, sans-serif;
             color:#727272;
-            font-size:16px;
+            font-size: 16px;
         }
